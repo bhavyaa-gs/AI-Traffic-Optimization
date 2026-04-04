@@ -1,0 +1,8 @@
+{
+  "name": "SmartTraffic-AI",
+  "description": "A real-time AI-based traffic optimization system with congestion prediction, accident detection, and route optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
