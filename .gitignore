@@ -7,3 +7,7 @@ coverage/
 .env*
 !.env.example
 !.env.production
+
+# Firebase config
+firebase-applet-config.json
+firebase-blueprint.json
